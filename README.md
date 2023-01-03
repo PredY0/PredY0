@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**PredY0/PredY0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Only+RED....;Welcome+my+world!!!&center=true&size=30">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align="center">
+  <code>
+  <code><a href="https://www.instagram.com/p._oyraz/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+- 🔭 I’m currently working on C#
+- 🌱 I’m currently learning Linux
+- 💬 Ask me about what you need
+- 📫 How to reach me: p._oyraz in instagram
+
+
